@@ -1,10 +1,11 @@
 
 import './App.css';
-import PackingList from './PackingList';
+import PackingListTernary from './PackingListTernary';
 function App() {
   return (
     <div className="App">
-     <PackingList/>
+  
+     <PackingListTernary/>
     </div>
   );
 }
