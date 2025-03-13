@@ -1,11 +1,12 @@
 
 import './App.css';
-import PackingListTernary from './PackingListTernary';
+import Button from './Button';
+//import PackingListTernary from './PackingListTernary';
 function App() {
   return (
     <div className="App">
-  
-     <PackingListTernary/>
+  <Button/>
+     {/*<PackingListTernary/>*/}
     </div>
   );
 }
